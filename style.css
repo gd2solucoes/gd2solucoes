@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif; /* Fonte simples e moderna */
+    background-color: #f4f4f4; /* Fundo cinza claro */
+    color: #333; /* Cor do texto escuro */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #0066cc; /* Azul para o título */
+    text-align: center; /* Centraliza o título */
+}
+
+p {
+    font-size: 1.1em; /* Tamanho do texto um pouco maior */
+    line-height: 1.6; /* Espaçamento entre linhas */
+    text-align: center; /* Centraliza o parágrafo */
+}
+
+ul {
+    list-style-type: none; /* Remove os marcadores da lista */
+    padding: 0;
+    text-align: center; /* Centraliza a lista */
+}
+
+ul li {
+    display: inline; /* Coloca os itens da lista na mesma linha */
+    margin: 0 10px; /* Espaçamento entre os itens */
+}
+
+ul li a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: #0066cc; /* Azul para os links */
+    font-weight: bold; /* Texto em negrito */
+}
+
+ul li a:hover {
+    color: #004499; /* Azul mais escuro ao passar o mouse */
+}
